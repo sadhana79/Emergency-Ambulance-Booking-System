@@ -24,10 +24,11 @@ Live Link: ()
 
  📸 Screenshots
 ## 🖼️ Main Page
-![Main Page](https://raw.githubusercontent.com/sadhana79/Emergency-Ambulance-Booking-System/main/mainpage.jpg.png)
-
-## 🔐 Login Page
+![Main Page](https://raw.githubusercontent.com/sadhana79/Emergency-Ambulance-Booking-System/main/mainpage.jpg.png)## 🔐 Login Page
 ![Login Page](https://raw.githubusercontent.com/sadhana79/Emergency-Ambulance-Booking-System/main/login.jpg.png)
+
+
+
 
 ## 📝 Registration Page
 ![Registration Page](https://raw.githubusercontent.com/sadhana79/Emergency-Ambulance-Booking-System/main/registration.jpg.png)
