@@ -28,6 +28,8 @@ Live Link: ()
 [Click to see screenshot]:(https://github.com/sadhana79/Emergency-Ambulance-Booking-System/blob/main/registration.jpg.png)
 [Click to see screenshot]:(https://github.com/sadhana79/Emergency-Ambulance-Booking-System/blob/main/driverpage.jpg.png)
 [Click to see screenshot]:(https://github.com/sadhana79/Emergency-Ambulance-Booking-System/blob/main/payment.jpg)
+[Click to see screenshot]:(https://github.com/sadhana79/Emergency-Ambulance-Booking-System/blob/main/admin.jpg)
+[Click to see screenshot]:(https://github.com/sadhana79/Emergency-Ambulance-Booking-System/blob/main/driver.jpg.png)
 
 
 
