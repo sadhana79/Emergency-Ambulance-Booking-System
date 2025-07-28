@@ -6,12 +6,12 @@ This is a web-based project that allows users to book ambulances in emergency si
 
 > [Click here to watch the demo video on YouTube](https://youtu.be/ziXiZtKX7Rk)
 
-Technologies Used
+1.Technologies Used
 - PHP
 - MySQL
 - HTML, CSS, JavaScript
 
-  Features
+ 2. Features
 - User registration and login
 - Ambulance booking form
 - Driver assignment
@@ -23,8 +23,6 @@ Technologies Used
 - Admin Module
 - Driver Module
 
- 📍 Hosted On
-   Live Link: ()
 
  📸 Screenshots
 
