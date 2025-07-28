@@ -6,7 +6,7 @@ This is a web-based project that allows users to book ambulances in emergency si
 
 > [Click here to watch the demo video on YouTube](https://youtu.be/ziXiZtKX7Rk)
 
-# Technologies Used
+Technologies Used
 - PHP
 - MySQL
 - HTML, CSS, JavaScript
